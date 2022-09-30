@@ -1,5 +1,5 @@
 # Smart-Contract-for-Government-Tenders
-A Solidity based smart contract designed for a municipal corporation to issue tenders to various venders after taking in votes for a constituency.
+A Solidity based smart contract designed for a municipal corporation to issue tenders to various vendors after taking in votes for a constituency.
 
 ## Problem Statement 1
 Various countries around the world suffer from governments and municipal corporations all around the country being corrupt and giving big contracts and tenders to partnering firms and vendors, resulting in corruption and medium/small firms getting pinned down
